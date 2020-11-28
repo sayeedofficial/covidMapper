@@ -9,6 +9,10 @@ https://nodejs.org/en/
 ```
 https://github.com/sayeedofficial/covidMapper.git
 ```
+```
+cd covidMapper
+npm install
+```
 # Deployed Link 
 ```
 https://covidmapper.netlify.app/
